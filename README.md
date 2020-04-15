@@ -110,7 +110,7 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-             Telegram : <a href="https://t.meGRAND_LEAKAGE">GRAND LEAKAGE</a>
+             Telegram : <a href="https://t.me/GRAND_LEAKAGE">GRAND LEAKAGE</a>
        YouTube Channel: https://www.youtube.com/c/GyanaTech
 ```
 
