@@ -109,10 +109,10 @@ sudo bash TBomb.sh
 
 Feel Free To Open An Issue...
 
-
+```
              Telegram : https://t.me/GRAND_LEAKAGE
 
        YouTube Channel: https://www.youtube.com/c/GyanaTech
 
-
+```
 <a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
