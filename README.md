@@ -86,7 +86,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+https://github.com/GRANDLEAKAGE/T-Bomb.git
 cd TBomb
 chmod +x TBomb.sh
 
