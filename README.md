@@ -109,9 +109,9 @@ sudo bash TBomb.sh
 
 Feel Free To Open An Issue...
 
-```
+
              Telegram :<a href="https://t.me/GRAND_LEAKAGE">GRAND LEAKAGE</a>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
+```       YouTube Channel: https://www.youtube.com/c/GyanaTech
 ```
 
 <a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
